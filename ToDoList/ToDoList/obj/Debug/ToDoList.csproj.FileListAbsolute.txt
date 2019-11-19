@@ -1,0 +1,16 @@
+C:\Users\david\source\repos\ToDoList\ToDoList\bin\Debug\ToDoList.exe.config
+C:\Users\david\source\repos\ToDoList\ToDoList\bin\Debug\ToDoList.exe
+C:\Users\david\source\repos\ToDoList\ToDoList\bin\Debug\ToDoList.pdb
+C:\Users\david\source\repos\ToDoList\ToDoList\bin\Debug\MetroFramework.Design.dll
+C:\Users\david\source\repos\ToDoList\ToDoList\bin\Debug\MetroFramework.dll
+C:\Users\david\source\repos\ToDoList\ToDoList\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\david\source\repos\ToDoList\ToDoList\obj\Debug\ToDoList.csprojAssemblyReference.cache
+C:\Users\david\source\repos\ToDoList\ToDoList\obj\Debug\ToDoList.Properties.Resources.resources
+C:\Users\david\source\repos\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.GenerateResource.cache
+C:\Users\david\source\repos\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.CopyComplete
+C:\Users\david\source\repos\ToDoList\ToDoList\obj\Debug\ToDoList.exe
+C:\Users\david\source\repos\ToDoList\ToDoList\obj\Debug\ToDoList.pdb
+C:\Users\david\source\repos\ToDoList\ToDoList\obj\Debug\ToDoList.FrmAgregar.resources
+C:\Users\david\source\repos\ToDoList\ToDoList\obj\Debug\ToDoList.FrmEditar.resources
+C:\Users\david\source\repos\ToDoList\ToDoList\obj\Debug\ToDoList.FrmDetalles.resources
+C:\Users\david\source\repos\ToDoList\ToDoList\obj\Debug\ToDoList.FrmTodoList.resources
